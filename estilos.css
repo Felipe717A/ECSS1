@@ -1,0 +1,87 @@
+.titulo {
+    font-size:70px;
+    background-color:rgb(236, 41, 41);
+    border:2px solid black;
+}
+
+
+
+.bandera {
+    display: inline-block;
+    width: 700px;
+    height: 200px;
+    
+    
+}
+.imagen{
+    width: 40%;
+    height: 100%;
+    float:right;
+}
+
+/* Franja verde */
+.verde {
+    background-color: green;
+    width: 20%;
+    height: 100%;
+    float:right;
+}
+
+/* Franja blanca */
+.blanco {
+    background-color: white;
+    width: 20%;
+    height: 100%;
+    float:right;
+}
+
+/* Franja roja */
+.rojo {
+    background-color: red;
+    width: 20%;
+    height: 100%;
+    float:right;
+}
+
+.Tituloindex{
+    border-radius: 20px; /* Ajusta el valor para controlar la curvatura de los bordes */
+    background-color: #9d0d0d;
+    padding: 20px;
+    width: 70%;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.Platillos{
+    border-radius: 20px; /* Ajusta el valor para controlar la curvatura de los bordes */
+    background-color: #b6aeae;
+    padding: 20px;
+    width: 70%;
+    text-align: center;
+    margin: 20px auto;
+}
+.Ingredientes-de-la-Cocina{
+    border-radius: 20px; /* Ajusta el valor para controlar la curvatura de los bordes */
+    background-color: #077107;
+    padding: 20px;
+    width: 70%;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.contenedor {
+    border-radius: 20px; /* Ajusta el valor para controlar la curvatura de los bordes */
+    background-color: #9d0d0d;
+    padding: 20px;
+    width: 70%;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.contenedor img {
+    display: block; /* Asegura que la imagen sea un bloque para aplicar el margen automáticamente */
+    margin: 0 auto; /* Centra horizontalmente */
+}
+.centrar{
+    text-align: center; 
+}
